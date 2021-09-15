@@ -4,17 +4,18 @@ body{
     background-color: #ffcccc;
     background-image: url("https://images.creativemarket.com/0.1.0/ps/1471406/910/606/m2/fpnw/wm1/mqbcejbet1crl4wqbzz0jn9lf3wp5gy8hixfpxxylema9xarbpyiu1aahmzdjuee-.jpg?1469106849&s=4fae7be0bdcc94a9019fea117b0e292d&fmt=webp");
 	background-repeat:round;
+    font-family: 'Rubik', sans-serif;
+
 
 }
 
 #head{
-	float:canter;
+	
 	margin-top: 70px;
     text-align: center ;
     color:black;
     font-size: 70px;
-    
-
+    text-shadow: 5px -2px 4px rgba(255, 255, 255, 1),-9px -9px 7px rgba(255, 255, 255, 1);
 }
 
 div{
@@ -31,7 +32,6 @@ div{
     background-image: url("https://i.pinimg.com/564x/b0/e9/3f/b0e93fcd66ae3998b99bfdad17d10523.jpg");
     background-position: center;
     background-repeat:repeat;
-    
 	
 }
 
